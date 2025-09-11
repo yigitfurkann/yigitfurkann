@@ -19,7 +19,13 @@ I’m Furkan Yiğit, a 4th-year Computer Engineering student and Huawei Student 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/yigitfurkann/yigitfurkann/blob/output/snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yigitfurkann/yigitfurkann/output/snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/yigitfurkann/yigitfurkann/output/snake-light.svg" />
+  </picture>
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yigitfurkann&limit=5&theme=dark&combine_all_yearly_contributions=true)
