@@ -2,13 +2,13 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # her gün 00:00 UTC
-  workflow_dispatch:       # manuel tetikleme
+    - cron: "0 0 * * *"        # her gün 00:00 UTC
+  workflow_dispatch:            # manuel tetikleme
   push:
-    branches: [ main ]
+    branches: [ main ]          # main'e push'ta da tetiklenir
 
 permissions:
-  contents: write          # output brancha itmek için gerekli
+  contents: write               # output brancha yazmak için şart
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: yigitfurkann
+          github_user_name: yigitfurkann   # kullanıcı adın
           outputs: dist/snake.svg
 
       - name: Publish to output branch
