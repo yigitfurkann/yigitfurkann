@@ -1,5 +1,43 @@
-# 💫 About Me:
-I’m Furkan Yiğit, a 4th-year Computer Engineering student and Huawei Student Developers (HSD) Kayseri Campus Ambassador with a strong focus on cloud computing, DevOps, and AI.<br>Huawei R&D Coding Marathon 2024 Winner – designed and deployed an innovative cloud architecture on Huawei Cloud. Huawei Cloud & DevOps Intern – developed a cloud-based healthcare management platform and a Kubernetes Disaster Recovery Tool with Terraform and cross-cloud (Azure AKS) deployment.<br>Microsoft Artificial Intelligence Intern – built an LSTM-based IMDB sentiment analysis model, gaining practical NLP and data science experience. Community Builder & Technical Writer – organize HSD events (Cloud 101, AI & LinkedIn workshops, expert live broadcasts) and publish Medium articles on cloud, AI, and emerging technologies.<br>TÜBİTAK 2209-A Researcher – conduct projects linking academic research with real-world applications.<br><br>🔭 Current: Huawei Cloud & DevOps projects — Kubernetes Disaster Recovery Tool (Terraform + Azure AKS) and cloud-based healthcare management platform; ongoing HSD Kayseri events and Medium technical writing.  <br>🧪 Interests: Cloud computing, DevOps, AI, NLP (LSTM), and data science.  <br>🏅 Achievements: Huawei R&D Coding Marathon 2024 Winner; Microsoft Artificial Intelligence Intern (IMDB sentiment analysis model).  <br>🌱 Volunteering: Huawei Student Developers (HSD) Kayseri Campus Ambassador — organizer of Cloud 101, AI & LinkedIn workshops, and expert live broadcasts.  <br>🤝 Open to collaboration on cloud, DevOps, and AI-driven scalable solutions.  <br>📫 Reach me via the socials below.<br>
+# Hi there, I'm Furkan YİĞİT 👋
+### Cloud | DevOps | AI Engineer
+
+I specialize in building scalable, resilient, and automated infrastructures by integrating **Cloud Computing**, **DevOps practices**, and **Artificial Intelligence**. With a proven track record in both Huawei Cloud and Microsoft ecosystems, I focus on optimizing complex systems and driving cloud-native innovation.
+
+---
+
+### 🚀 Key Achievements & Experience
+
+- 🏆 **Huawei R&D Coding Marathon 2024 Winner**: Designed and deployed award-winning innovative cloud architectures on Huawei Cloud.
+- ☁️ **Cloud & DevOps Specialist**: Developed a **Kubernetes Disaster Recovery Tool** using Terraform for cross-cloud deployment (Azure AKS & Huawei Cloud).
+- 🧠 **AI & Data Science**: Engineered LSTM-based NLP models for sentiment analysis during my tenure at Microsoft.
+- 🔬 **TÜBİTAK 2209-A Researcher**: Bridging academic research with real-world industrial applications.
+
+---
+
+### 🛠️ Technical Expertise
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud** | Huawei Cloud, Azure, GCP |
+| **DevOps** | Kubernetes, Docker, Terraform, CI/CD, Infrastructure as Code (IaC) |
+| **AI/ML** | NLP, LSTM, Computer Vision, Data Science |
+| **Languages** | Python, Go, Bash |
+
+---
+
+### 🌐 Community & Leadership
+
+- 🛡️ **Huawei Student Developers (HSD) Campus Ambassador**: Leading workshops on Cloud 101, AI, and career strategy.
+- ✍️ **Technical Writer**: Sharing insights on Cloud and AI-driven technologies on **Medium**.
+
+---
+
+### 🔭 Current Focus & Collaboration
+
+- ⚡ **Currently working on**: Kubernetes Disaster Recovery solutions and scalable AI-driven architectures.
+- 🤝 **Open to collaboration on**: Cloud-native migrations, DevOps automation, and scalable AI solutions.
+
+---
 
 
 ## 🌐 Socials:
